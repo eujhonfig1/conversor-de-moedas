@@ -16,11 +16,11 @@ const currencyValueConverted = document.querySelector(".currency-value");
 
 // --- Banco de Dados e Configurações ---
 const rates = {
-    USD: 5.2,
-    EUR: 6.2,
-    GBP: 7.2,
-    JPY: 0.05,
-    BTC: 250000,
+    USD: 4.95,
+    EUR: 5.80,
+    GBP: 6.71,
+    JPY: 0.032,
+    BTC: 393820.95,
     RS: 1.0
 };
 
